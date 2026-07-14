@@ -1,0 +1,16 @@
+target/
+.settings/
+.classpath
+.project
+.mvn/wrapper/maven-wrapper.jar
+
+*.log
+*.class
+
+bin/
+
+.idea/
+.vscode/
+
+.DS_Store
+application-secret.properties
